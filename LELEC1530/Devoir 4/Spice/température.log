@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Théo\Documents\Université\BAC INGE\ELEC\LELEC1530\Devoir 4\Spice\température.asc
+
+Direct Newton iteration for .op point succeeded.
+.step temp=25°C
+.step temp=50°C
+
+Date: Mon Nov 16 20:44:36 2020
+Total elapsed time: 0.222 seconds.
+
+tnom = 27
+temp = 50
+method = modified trap
+totiter = 2087
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1:      23 opcodes  0.4/[0.2]/0.3
+Matrix Compiler2: off  [0.3]/0.3/0.3
+

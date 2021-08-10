@@ -1,0 +1,53 @@
+Circuit: * C:\Users\Théo\Documents\unif\ELEC\Projet\Spice\Récepteur.asc
+
+WARNING: Less than two connections to node NOISE.  This node is used by B1.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+vernier = 0.5
+vernier = 0.25
+Gmin = 28.1475
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 27.6066
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 27.5394
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu May 14 15:35:26 2020
+Total elapsed time: 37.036 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 394899
+traniter = 392865
+tranpoints = 117442
+accept = 85160
+rejected = 32282
+matrix size = 314
+fillins = 5019
+solver = Normal
+Thread vector: 75.6/39.7[4] 8.0/6.3[4] 9.0/5.9[4] 3.9/5.5[1]  2592/500
+Matrix Compiler1: 750.46 KB object code size  148.3/68.9/[29.5]
+Matrix Compiler2: 120.00 KB object code size  23.8/12.9/[9.3]
+

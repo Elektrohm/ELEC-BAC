@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Théo\Documents\unif\ELEC\Labo 6\FFT.asc
+
+WARNING: Less than two connections to node VIN.  This node is used by V3.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Mar 22 17:01:45 2020
+Total elapsed time: 0.249 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20212
+traniter = 20199
+tranpoints = 10099
+accept = 6950
+rejected = 3149
+matrix size = 14
+fillins = 2
+solver = Normal
+Matrix Compiler1: 648 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.15 KB object code size  0.1/0.2/[0.1]
+

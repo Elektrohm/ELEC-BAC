@@ -1,0 +1,136 @@
+Circuit: * C:\Users\Théo\Documents\unif\ELEC\Projet\Spice\circuit_complet(2).asc
+
+WARNING: Less than two connections to node NOISE.  This node is used by B1.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+vernier = 0.5
+vernier = 0.25
+Gmin = 33.1147
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 32.8575
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 32.9818
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 12.1271%
+Source Step = 12.1567%
+Source Step = 12.1863%
+Source Step = 12.2159%
+Source Step = 12.2455%
+Source Step = 12.2751%
+vernier = 0.00146484
+Source Step = 12.3195%
+Source Step = 12.3639%
+Source Step = 12.4083%
+Source Step = 12.4527%
+Source Step = 12.497%
+vernier = 0.00219727
+Source Step = 12.5614%
+Source Step = 12.628%
+Source Step = 12.6946%
+Source Step = 12.7612%
+Source Step = 12.8277%
+vernier = 0.0032959
+Source Step = 12.921%
+Source Step = 13.0208%
+Source Step = 13.1207%
+Source Step = 13.2206%
+Source Step = 13.3205%
+vernier = 0.00494385
+Source Step = 13.4553%
+Source Step = 13.6051%
+Source Step = 13.7549%
+Source Step = 13.9047%
+Source Step = 14.0545%
+vernier = 0.00741577
+Source Step = 14.2493%
+Source Step = 14.474%
+Source Step = 14.6987%
+Source Step = 14.9235%
+Source Step = 15.1482%
+vernier = 0.0111237
+Source Step = 15.4291%
+Source Step = 15.7662%
+Source Step = 16.1032%
+Source Step = 16.4403%
+Source Step = 16.7774%
+vernier = 0.0166855
+Source Step = 17.1819%
+Source Step = 17.6875%
+Source Step = 18.1931%
+Source Step = 18.6988%
+Source Step = 19.2044%
+vernier = 0.0250282
+Source Step = 19.7859%
+Source Step = 20.5443%
+Source Step = 21.3027%
+Source Step = 22.0611%
+Source Step = 22.8196%
+vernier = 0.0375423
+Source Step = 23.6539%
+Source Step = 24.7915%
+Source Step = 25.9291%
+Source Step = 27.0668%
+Source Step = 28.2044%
+vernier = 0.0563135
+Source Step = 29.399%
+Source Step = 31.1054%
+Source Step = 32.8119%
+Source Step = 34.5184%
+Source Step = 36.2248%
+Source Step = 37.9313%
+vernier = 0.0844703
+Source Step = 40.491%
+Source Step = 43.0507%
+Source Step = 45.6104%
+Source Step = 48.1701%
+Source Step = 50.7298%
+vernier = 0.126705
+Source Step = 54.4414%
+Source Step = 58.281%
+Source Step = 62.1205%
+Source Step = 65.9601%
+Source Step = 69.7996%
+vernier = 0.190058
+Source Step = 75.175%
+Source Step = 80.9344%
+Source Step = 86.6937%
+Source Step = 92.453%
+Source Step = 98.2124%
+vernier = 0.285087
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu May 14 18:40:21 2020
+Total elapsed time: 40.937 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 241545
+traniter = 236644
+tranpoints = 72598
+accept = 53394
+rejected = 19204
+matrix size = 312
+fillins = 5238
+solver = Normal
+Thread vector: 117.4/77.5[4] 17.7/7.9[4] 10.7/6.3[4] 7.7/106.1[1]  2592/500
+Matrix Compiler1: 787.40 KB object code size  185.3/88.3/[35.1]
+Matrix Compiler2: 123.39 KB object code size  33.4/20.7/[17.0]
+

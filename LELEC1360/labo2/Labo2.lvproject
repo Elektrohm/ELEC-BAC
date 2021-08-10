@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile xmlns="http://www.ni.com/PlatformFramework">
+    <SourceModelFeatureSet>
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="Editor" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/PlatformFramework" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="SystemDesigner" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/SystemDiagram" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="Desktop SystemDesigner Plugin" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/Desktop/SystemDiagram" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="SystemDesigner" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/EnvoyManagement" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="SystemDesigner" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/SystemModelCore" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="SystemDesigner" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/SystemModel" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="VI SystemDesigner Plugin" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/Vi" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="Desktop SystemDesigner Plugin" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/Desktop/SystemModel" Version="3.0.0.49152" />
+        <ParsableNamespace AssemblyFileVersion="3.0.0.56744" FeatureSetName="SystemDesigner Discovery" MinimumParsableVersion="3.0.0.0" MinimumSemanticallyEquivalentVersion="3.0.0.0" Name="http://www.ni.com/SystemDesigner/Discovery" Version="3.0.0.49152" />
+    </SourceModelFeatureSet>
+    <Project xmlns="http://www.ni.com/PlatformFramework">
+        <ProjectSettings DocumentTypeIdentifier="ProjectSettings" Id="1" Name="ZProjectSettings" PersistentDockingLayoutRule="2">
+            <p.DockingLayout />
+        </ProjectSettings>
+        <DefinitionReference Bindings="Envoy,DefinitionReference,EmbeddedReference,NationalInstruments.ProjectExplorer.Modeling.ProjectDataManager,ProjectDefaultCopyPasteServiceOptOut" DocumentTypeIdentifier="NationalInstruments.ProjectExplorer.Modeling.ProjectDataManager" Id="2" Name="ProjectExplorer">
+            <ProjectExplorer>
+                <ProjectRootItem AssociatedItemIdentifier="2" Id="12">
+                    <ProjectDataItem AssociatedItemIdentifier="38" Id="39" />
+                    <ProjectDataItem AssociatedItemIdentifier="67" Id="66" />
+                    <ProjectFolderDataItem AssociatedItemIdentifier="74" FolderName="Data" Id="74">
+                        <ProjectFolderDataItem AssociatedItemIdentifier="285" FolderName="2021-03-06 134548 917" Id="285">
+                            <ProjectDataItem AssociatedItemIdentifier="284" Id="286" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="307" FolderName="2021-03-06 135805 943" Id="307">
+                            <ProjectDataItem AssociatedItemIdentifier="306" Id="308" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="320" FolderName="2021-03-06 141402 243" Id="320">
+                            <ProjectDataItem AssociatedItemIdentifier="319" Id="321" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="401" FolderName="2021-03-10 174315 944" Id="401">
+                            <ProjectDataItem AssociatedItemIdentifier="400" Id="402" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="404" FolderName="2021-03-10 174618 903" Id="404">
+                            <ProjectDataItem AssociatedItemIdentifier="403" Id="405" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="411" FolderName="2021-03-11 130742 814" Id="411">
+                            <ProjectDataItem AssociatedItemIdentifier="410" Id="412" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="414" FolderName="2021-03-11 132244 203" Id="414">
+                            <ProjectDataItem AssociatedItemIdentifier="413" Id="415" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="417" FolderName="2021-03-11 134047 153" Id="417">
+                            <ProjectDataItem AssociatedItemIdentifier="416" Id="418" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="420" FolderName="2021-03-11 134427 790" Id="420">
+                            <ProjectDataItem AssociatedItemIdentifier="419" Id="421" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="423" FolderName="2021-03-11 134842 940" Id="423">
+                            <ProjectDataItem AssociatedItemIdentifier="422" Id="424" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="426" FolderName="2021-03-11 135138 418" Id="426">
+                            <ProjectDataItem AssociatedItemIdentifier="425" Id="427" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="429" FolderName="2021-03-11 135546 338" Id="429">
+                            <ProjectDataItem AssociatedItemIdentifier="428" Id="430" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="432" FolderName="2021-03-11 140320 147" Id="432">
+                            <ProjectDataItem AssociatedItemIdentifier="431" Id="433" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="435" FolderName="2021-03-11 140504 433" Id="435">
+                            <ProjectDataItem AssociatedItemIdentifier="434" Id="436" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="438" FolderName="2021-03-11 140857 239" Id="438">
+                            <ProjectDataItem AssociatedItemIdentifier="437" Id="439" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="441" FolderName="2021-03-11 141249 816" Id="441">
+                            <ProjectDataItem AssociatedItemIdentifier="440" Id="442" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="444" FolderName="2021-03-11 141614 634" Id="444">
+                            <ProjectDataItem AssociatedItemIdentifier="443" Id="445" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="447" FolderName="2021-03-11 142010 077" Id="447">
+                            <ProjectDataItem AssociatedItemIdentifier="446" Id="448" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="450" FolderName="2021-03-11 143457 179" Id="450">
+                            <ProjectDataItem AssociatedItemIdentifier="449" Id="451" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="453" FolderName="2021-03-11 150729 409" Id="453">
+                            <ProjectDataItem AssociatedItemIdentifier="452" Id="454" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="456" FolderName="2021-03-11 150732 236" Id="456">
+                            <ProjectDataItem AssociatedItemIdentifier="455" Id="457" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="459" FolderName="2021-03-11 151311 765" Id="459">
+                            <ProjectDataItem AssociatedItemIdentifier="458" Id="460" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="462" FolderName="2021-03-11 152745 705" Id="462">
+                            <ProjectDataItem AssociatedItemIdentifier="461" Id="463" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="465" FolderName="2021-03-11 153654 355" Id="465">
+                            <ProjectDataItem AssociatedItemIdentifier="464" Id="466" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="468" FolderName="2021-03-11 153945 362" Id="468">
+                            <ProjectDataItem AssociatedItemIdentifier="467" Id="469" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="471" FolderName="2021-03-11 154228 258" Id="471">
+                            <ProjectDataItem AssociatedItemIdentifier="470" Id="472" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="474" FolderName="2021-03-11 154415 065" Id="474">
+                            <ProjectDataItem AssociatedItemIdentifier="473" Id="475" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="481" FolderName="2021-03-18 135206 242" Id="481">
+                            <ProjectDataItem AssociatedItemIdentifier="480" Id="482" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="484" FolderName="2021-03-18 135327 755" Id="484">
+                            <ProjectDataItem AssociatedItemIdentifier="483" Id="485" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="487" FolderName="2021-03-18 135848 968" Id="487">
+                            <ProjectDataItem AssociatedItemIdentifier="486" Id="488" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="490" FolderName="2021-03-18 140750 010" Id="490">
+                            <ProjectDataItem AssociatedItemIdentifier="489" Id="491" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="493" FolderName="2021-03-18 141850 651" Id="493">
+                            <ProjectDataItem AssociatedItemIdentifier="492" Id="494" />
+                        </ProjectFolderDataItem>
+                        <ProjectFolderDataItem AssociatedItemIdentifier="496" FolderName="2021-03-18 142317 731" Id="496">
+                            <ProjectDataItem AssociatedItemIdentifier="495" Id="497" />
+                        </ProjectFolderDataItem>
+                    </ProjectFolderDataItem>
+                </ProjectRootItem>
+            </ProjectExplorer>
+        </DefinitionReference>
+        <DefinitionReference Bindings="Envoy,DefinitionReference,EmbeddedReference,NationalInstruments.SystemDesigner.SystemDiagram.Moc,NationalInstruments.SystemDesigner.SystemDiagram.SystemDiagramDefinition" DocumentTypeIdentifier="NationalInstruments.SystemDesigner.SystemDiagram.SystemDiagramDefinition" Id="3" Name="SystemDiagram">
+            <SystemDiagram ProcessMappings="20:49, 21:53, 41:61, 69:70" SystemDiagramVersion="56" xmlns="http://www.ni.com/SystemDesigner/SystemDiagram">
+                <SystemDiagramRootDiagram Id="48">
+                    <DesktopChassis Bounds="107 50 425 516" HasLayoutManager="True" Id="49" ResourceViewHeight="25" ResourceViewWidth="49" SystemModelContent="20" xmlns="http://www.ni.com/SystemDesigner/Desktop/SystemDiagram">
+                        <DocumentModelChassisBackplaneDiagram Bounds="12 30 401 47" Id="50" xmlns="http://www.ni.com/SystemDesigner/SystemDiagram" />
+                        <DocumentModelChassisResourceDiagram Bounds="12 66 401 450" Id="51" xmlns="http://www.ni.com/SystemDesigner/SystemDiagram">
+                            <StockBoard AddSocketsButtonLeft="2.5" BottomDiagram="60" Bounds="0 0 360 445" CollapseRestriction="PermanentlyExpanded" Facade="SystemDiagramDesktopHostViewModel" HomepageDiagram="54" Id="53" MinimumHeight="170" SelectedCategoryInternal="55" SystemModelContent="21">
+                                <BoardHomepageDiagram Bounds="0 90 336 98" CanScroll="False" CategoryViewName="CategoriesResourceTypeView" ColumnMargin="5" Id="54" LeftMargin="5" RowMargin="8">
+                                    <Category Bounds="5 10 82 89" CardViewDiagram="56" CategoryName="Source Code" GridViewDiagram="58" Id="55" />
+                                </BoardHomepageDiagram>
+                                <BoardDiagram Bounds="0 90 336 186" CategoryName="Source Code" Id="56">
+                                    <SoftwareCard Bounds="11 10 163 89" CategoryView="CategoriesResourceTypeView" Collapsed="False" Facade="CardFacade" Id="61" SystemModelContent="41" Target=":Project:PC:Function\.gvi" Template="List" />
+                                    <SoftwareCard Bounds="173 10 163 89" CategoryView="CategoriesResourceTypeView" Collapsed="False" Facade="CardFacade" Id="70" SystemModelContent="69" Target=":Project:PC:FFT\.gvi" Template="List" />
+                                </BoardDiagram>
+                                <BoardDiagram Bounds="0 90 336 98" CategoryName="Source Code" Id="58" ScrollVerticalOffset="0">
+                                    <DocumentModelDataGrid Bounds="6 0 349 64" CardDiagram="56" Docking="Stretch" Id="59" />
+                                </BoardDiagram>
+                                <BoardDiagram Bounds="0 0 100 98" CanScroll="False" CategoryName="" Id="60" LeftMargin="0" TopMargin="0" />
+                            </StockBoard>
+                        </DocumentModelChassisResourceDiagram>
+                        <DocumentModelChassisBackplaneDiagram Bounds="0 0 100 60" Id="52" xmlns="http://www.ni.com/SystemDesigner/SystemDiagram" />
+                    </DesktopChassis>
+                </SystemDiagramRootDiagram>
+                <EnvoyFacadeManager Id="5" RootEnvoy="3" xmlns="http://www.ni.com/SystemDesigner/EnvoyManagement">
+                    <Tree Id="6" Kind="{http://www.ni.com/SystemDesigner/SystemModelCore}Tree" Name="Software Layer" xmlns="http://www.ni.com/SystemDesigner/SystemModelCore">
+                        <Process Derivatives="T:41" Id="40" Kind="{http://www.ni.com/SystemDesigner/Vi}Process.Vi" Name="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" p7:Process.Bounds="11 10 163 89" p8:Process.AliasName="Function.gvi" p8:Process.AssociatedIdentifier="38" p8:Process.Qualifiedname=":Project:PC:Function\.gvi" xmlns:p8="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p7="http://www.ni.com/SystemDesigner/SystemDiagram" />
+                        <Process Derivatives="T:69" Id="68" Kind="{http://www.ni.com/SystemDesigner/Vi}Process.Vi" Name="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" p7:Process.Bounds="173 10 163 89" p8:Process.AliasName="FFT.gvi" p8:Process.AssociatedIdentifier="67" p8:Process.Qualifiedname=":Project:PC:FFT\.gvi" xmlns:p8="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p7="http://www.ni.com/SystemDesigner/SystemDiagram" />
+                    </Tree>
+                    <MappingManager Id="7" xmlns="http://www.ni.com/SystemDesigner/SystemModelCore">
+                        <SuperimpositionMapping Id="8" Map="T:18:20, 19:21, 40:41, 68:69" ReverseMap="T:20:18, 21:19, 41:40, 69:68" Sources="T:6,17">
+                            <Tree Id="9" Kind="{http://www.ni.com/SystemDesigner/SystemModelCore}Tree" Name="Root Superimposition">
+                                <Process Id="20" Kind="{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Process.Desktop" Name="Desktop" Prototypes="T:18">
+                                    <Process Id="21" Kind="{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Process.DesktopHost" Name="DesktopHost" Prototypes="T:19">
+                                        <Process Id="41" Kind="{http://www.ni.com/SystemDesigner/Vi}Process.Vi" Name="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Prototypes="T:40" />
+                                        <Process Id="69" Kind="{http://www.ni.com/SystemDesigner/Vi}Process.Vi" Name="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Prototypes="T:68" />
+                                    </Process>
+                                </Process>
+                            </Tree>
+                        </SuperimpositionMapping>
+                        <InstanceMapping Id="16" Map="T:{http\://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop/Desktop:18, {http\://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop/Desktop/DesktopHost:19" ReverseMap="T:18:{http\://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop/Desktop, 19:{http\://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop/Desktop/DesktopHost" Sources="T:{http\://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop">
+                            <Tree Id="17" Kind="{http://www.ni.com/SystemDesigner/SystemModelCore}Tree" Name="Desktop Instance">
+                                <Process Derivatives="T:20" Id="18" Kind="{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Process.Desktop" Name="Desktop" Prototypes="T:{http\://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop/Desktop" p9:Process.DiscoveryAlias="localhost" p10:Process.Bounds="107 50 425 516" p11:Process.AliasName="PC Desktop" p11:Process.AssociatedIdentifier="22" p11:Process.Qualifiedname=":Project:PC\ Desktop" xmlns:p11="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p10="http://www.ni.com/SystemDesigner/SystemDiagram" xmlns:p9="http://www.ni.com/SystemDesigner/Discovery">
+                                    <Process Derivatives="T:21" Id="19" Kind="{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Process.DesktopHost" Name="DesktopHost" Prototypes="T:{http\://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop/Desktop/DesktopHost" p10:Process.Bounds="0 0 360 445" p11:Process.AssociatedIdentifier="23" p11:Process.Qualifiedname=":Project:PC" />
+                                </Process>
+                            </Tree>
+                        </InstanceMapping>
+                    </MappingManager>
+                </EnvoyFacadeManager>
+            </SystemDiagram>
+            <DefinitionReference Bindings="Envoy,DefinitionReference,NationalInstruments.SystemDesigner.SystemDiagram.SystemDiagramChassisModel,EmbeddedReference,ContentKind_{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Process.Desktop,ProcessBackedProjectServiceMetaFactory" DocumentTypeIdentifier="NationalInstruments.SystemDesigner.SystemDiagram.SystemDiagramChassisModel" Id="22" Name="PC\ Desktop">
+                <SystemDiagramChassis Name="PC\ Desktop" xmlns="http://www.ni.com/SystemDesigner/SystemDiagram" />
+                <Target Bindings="Envoy,DefinitionReference,NationalInstruments.SystemDesigner.SystemDiagram.SystemDiagramTargetModel,SystemDiagramEnumerateTargetService,EmbeddedReference,ScopingEnvoy,NameScopingEnvoy,ContentKind_{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Process.DesktopHost,InProcessNativeDesktopTarget,ProcessBackedProjectServiceMetaFactory" DocumentTypeIdentifier="NationalInstruments.SystemDesigner.SystemDiagram.SystemDiagramTargetModel" Id="23" Name="PC">
+                    <DefinitionReference Bindings="Envoy,DefinitionReference,RepositoryManagerDefinition,EmbeddedReference" DocumentTypeIdentifier="RepositoryManagerDefinition" Id="24" Name="vi\.lib\.Common\.PC" Reparentable="False">
+                        <RepositoryManagerDefinition Location="&quot;&lt;AppDir&gt;\\Resources\\vi.lib\\Common&quot;" Name="vi\.lib\.Common\.PC" />
+                    </DefinitionReference>
+                    <DefinitionReference Bindings="Envoy,DefinitionReference,RepositoryManagerDefinition,EmbeddedReference" DocumentTypeIdentifier="RepositoryManagerDefinition" Id="25" Name="vi\.lib\.Native\.PC" Reparentable="False">
+                        <RepositoryManagerDefinition Location="&quot;&lt;AppDir&gt;\\Resources\\vi.lib\\Native&quot;" Name="vi\.lib\.Native\.PC" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="72" Name="Real\ FFT\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="86" Name="mod_Set\ Error\ Source\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="88" Name="mod_Validate\ WFD\ Real\ Waveform\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="90" Name="mod_WFErrorHandler\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="91" Name="Current\ VIs\ Path\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="92" Name="MT\ Upconvert\ Baseband\ \(Real\)\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="93" Name="mod_Validate\ Upconversion\ Parameters\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="94" Name="mod_Complex\ Modulator\ Passband\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="95" Name="mod_Validate\ Passband\ Sampling\ Rate\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="96" Name="mod_Validate\ Complex\ Waveform\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="101" Name="MT\ Downconvert\ Passband\ \(Real\)\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="102" Name="mod_Validate\ Downconversion\ Parameters\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="103" Name="mod_Error\ Codes\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="104" Name="ma_Build\ BP\ \&amp;\ Estimate\ Order\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="105" Name="Parks\-McClellan\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="106" Name="mod_complex\ modulator\(real\ input\)\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="107" Name="IIR\ Filter\ \(CDB\)\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="108" Name="ma_basicErrorCode2ErrorCluster\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="109" Name="ma_Convert\ Magnitude\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="110" Name="ma_Estimate\ N\ and\ Alter\ BP\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="111" Name="ma_Estimate\ N\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="396" Name="MT\ Modulate\ FM\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="397" Name="mod_FM\ CE\ Modulation\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="398" Name="MT\ Demodulate\ FM\.gvi" />
+                        <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="399" Name="mod_FM\ CE\ Demodulation\ \(block\ processing\)\.gvi" />
+                    </DefinitionReference>
+                    <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="38" Name="Function\.gvi" StoragePath="Function.gvi" />
+                    <SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="67" Name="FFT\.gvi" StoragePath="FFT.gvi" />
+                    <SystemDiagramTarget Name="PC" xmlns="http://www.ni.com/SystemDesigner/SystemDiagram" />
+                </Target>
+            </DefinitionReference>
+        </DefinitionReference>
+        <Target Bindings="Envoy,DefinitionReference,EmbeddedReference,ScopingEnvoy,NameScopingEnvoy,NullTarget" DocumentTypeIdentifier="NullTarget" Id="10" Name="NullTarget">
+            <NullTarget />
+        </Target>
+        <Target Bindings="Envoy,DefinitionReference,DataDepot,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,EmbeddedReference,ScopingEnvoy,NameScopingEnvoy" DocumentTypeIdentifier="DataDepot" Id="14" Name="DataDepot">
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="284" Name="modulé\ \(284\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-06 134548 917\modulé (284).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="306" Name="XY\(modulant\,crète\)\ \(306\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-06 135805 943\XY(modulant,crète) (306).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="319" Name="XY\(modulant\,démodulé\)\ \(319\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-06 141402 243\XY(modulant,démodulé) (319).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="400" Name="FFT\(modulé\)\ \(400\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-10 174315 944\FFT(modulé) (400).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="403" Name="FFT\(modulant\)\ \(403\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-10 174618 903\FFT(modulant) (403).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="410" Name="FFT\(modulé\)\ \(410\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 130742 814\FFT(modulé) (410).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="413" Name="FFT\(modulant\)\ \(413\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 132244 203\FFT(modulant) (413).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="416" Name="FFT\(modulé\)\ \(416\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 134047 153\FFT(modulé) (416).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="419" Name="FFT\(modulé\)\ \(419\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 134427 790\FFT(modulé) (419).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="422" Name="FFT\(modulé\)\ \(422\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 134842 940\FFT(modulé) (422).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="425" Name="FFT\(modulé\)\ \(425\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 135138 418\FFT(modulé) (425).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="428" Name="FFT\(modulé\)\ \(428\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 135546 338\FFT(modulé) (428).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="431" Name="FFT\(modulé\)\ \(431\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 140320 147\FFT(modulé) (431).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="434" Name="FFT\(modulé\)\ \(434\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 140504 433\FFT(modulé) (434).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="437" Name="FFT\(modulé\)\ \(437\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 140857 239\FFT(modulé) (437).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="440" Name="XY\(modulant\,démodulé\)\ \(440\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 141249 816\XY(modulant,démodulé) (440).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="443" Name="XY\(modulant\,démodulé\)\ \(443\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 141614 634\XY(modulant,démodulé) (443).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="446" Name="XY\(modulant\,démodulé\)\ \(446\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 142010 077\XY(modulant,démodulé) (446).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="449" Name="démodulé\ \(downcovert\)\ \(449\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 143457 179\démodulé (downcovert) (449).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="452" Name="Modulant\ \(452\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 150729 409\Modulant (452).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="455" Name="modulé\ \(455\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 150732 236\modulé (455).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="458" Name="démodulé\ \(downcovert\)\ \(458\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 151311 765\démodulé (downcovert) (458).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="461" Name="démodulé\ \(461\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 152745 705\démodulé (461).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="464" Name="démodulé\ \(464\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 153654 355\démodulé (464).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="467" Name="XY\(modulant\,démodulé\)\ \(467\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 153945 362\XY(modulant,démodulé) (467).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="470" Name="XY\(modulant\,démodulé\)\ \(470\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 154228 258\XY(modulant,démodulé) (470).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="473" Name="XY\(modulant\,démodulé\)\ \(473\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-11 154415 065\XY(modulant,démodulé) (473).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="480" Name="FFT\(modulé\)\ \(480\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-18 135206 242\FFT(modulé) (480).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="483" Name="FFT\(modulé\)\ \(483\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-18 135327 755\FFT(modulé) (483).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="486" Name="FFT\(modulé\)\ \(486\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-18 135848 968\FFT(modulé) (486).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="489" Name="FFT\(modulé\)\ \(489\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-18 140750 010\FFT(modulé) (489).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="492" Name="FFT\(modulé\)\ \(492\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-18 141850 651\FFT(modulé) (492).data" />
+            <SourceFileReference Bindings="DataDepotItem,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,SourceFileReference" DocumentTypeIdentifier="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Id="495" Name="FFT\(modulé\)\ \(495\)\.data" OverridingDocumentTypeIdentifier="DataDepotItem" StoragePath="Data\2021-03-18 142317 731\FFT(modulé) (495).data" />
+            <DataDepot />
+        </Target>
+    </Project>
+    <ProjectInformation Author="" ProjectIconBackgroundFilename="{D7561717-D660-4FB3-8F22-FA34432FBB21}" xmlns="http://www.ni.com/PlatformFramework">
+        <p.Description></p.Description>
+    </ProjectInformation>
+</SourceFile>

@@ -1,0 +1,37 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -48 32 -48 -64
+LINE Normal 48 32 -48 32
+LINE Normal 48 -64 48 32
+LINE Normal -48 -64 48 -64
+LINE Normal 0 24 -8 32
+LINE Normal 8 32 0 24
+TEXT 0 24 Bottom 0 CLK
+TEXT -48 16 Left 0 Reset
+PIN -48 16 NONE 8
+PINATTR PinName Reset
+PINATTR SpiceOrder 1
+PIN -48 -48 NONE 8
+PINATTR PinName Bit_1
+PINATTR SpiceOrder 2
+PIN -48 -32 NONE 8
+PINATTR PinName Bit_2
+PINATTR SpiceOrder 3
+PIN -48 -16 NONE 8
+PINATTR PinName Bit_3
+PINATTR SpiceOrder 4
+PIN 0 32 NONE 8
+PINATTR PinName CLK
+PINATTR SpiceOrder 5
+PIN 48 16 NONE 8
+PINATTR PinName Cn+1
+PINATTR SpiceOrder 6
+PIN 48 -48 NONE 8
+PINATTR PinName Bit_1
+PINATTR SpiceOrder 7
+PIN 48 -32 NONE 8
+PINATTR PinName Bit_2
+PINATTR SpiceOrder 8
+PIN 48 -16 NONE 8
+PINATTR PinName Bit_3
+PINATTR SpiceOrder 9

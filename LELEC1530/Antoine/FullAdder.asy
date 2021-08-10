@@ -1,0 +1,28 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -64 0 -48 0
+LINE Normal -32 -64 -32 -48
+LINE Normal 32 -64 32 -48
+LINE Normal 64 0 48 0
+LINE Normal -48 48 -48 -48
+LINE Normal 48 48 -48 48
+LINE Normal 48 -48 48 48
+LINE Normal -48 -48 48 -48
+LINE Normal 0 64 0 48
+TEXT -40 -18 Left 2 Full
+TEXT -27 11 Left 2 Adder
+PIN -32 -64 NONE 8
+PINATTR PinName A_n
+PINATTR SpiceOrder 1
+PIN 32 -64 NONE 8
+PINATTR PinName B_n
+PINATTR SpiceOrder 2
+PIN -64 0 NONE 8
+PINATTR PinName C_n
+PINATTR SpiceOrder 3
+PIN 64 0 NONE 8
+PINATTR PinName C_n+1
+PINATTR SpiceOrder 4
+PIN 0 64 NONE 8
+PINATTR PinName S_n
+PINATTR SpiceOrder 5

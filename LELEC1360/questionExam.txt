@@ -1,0 +1,9 @@
+expression du signal analytique pour fréquence négative en fonction de x et autre grandeur nécessaire
+expression de l'enveloppe complexe du nouveau signal
+expression de y en fonction de xa 
+expression de l'enveloppe de y en fonction de celle de xa comme vu au cours
+expression de x(t) en fonction de ya 
+
+métrique à utiliser pour signal transmis en bande de base de puissance différente
+probabilité d'erreur
+particulariser à un cas vu au cours

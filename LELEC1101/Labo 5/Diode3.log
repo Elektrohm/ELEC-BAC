@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Théo\Documents\unif\ELEC\Labo 5\Diode3.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon May 11 11:42:58 2020
+Total elapsed time: 0.148 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4623
+traniter = 4587
+tranpoints = 1794
+accept = 1568
+rejected = 226
+matrix size = 16
+fillins = 20
+solver = Normal
+Matrix Compiler1: 1.92 KB object code size  0.4/0.2/[0.1]
+Matrix Compiler2: 2.00 KB object code size  0.2/0.3/[0.2]
+

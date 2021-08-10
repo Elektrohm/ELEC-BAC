@@ -1,0 +1,4 @@
+Circuit: * C:\Users\Théo\Documents\unif\ELEC\Labo 5\Draft3.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu1 n004 n001 vcc vdd n002 tl084

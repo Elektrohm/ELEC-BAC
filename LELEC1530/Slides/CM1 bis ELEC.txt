@@ -1,0 +1,52 @@
+diode : tension positive du côté cathode -> bloquante
+Question examen -> reconnaître un circuit, dessiner un circuit, schéma, équation, graphique
+/!\ vocabulaire technique
+Rappel : petit v -> alternatif / grand v -> DC
+analyse transitoire, Commande : .tran (temps ini, temp fini, step)
+
+Physique du dispositif nécessaire pour comprendre ce qui se passe dans certains cas,
+exemple : une diode à 10MHz, un temps avant d'arriver à 0.
+
+On peut obtenir sur Spice le modèle de la diode, sa résistance, capacité, le courant interne,...)
+/!\ une diode n'est pas une source de courant contrôlé avec une capacité, il s'agit d'un
+modèle équivalent. On peut obtenir une équation pour la diode,
+
+=> i_D = I_S (exp(v_D/nV_T)-1) 
+
+attention PAS DE TENSION DE SEUIL DE 0.7V C'EST FAUX !!
+Il y a un coude qui se voit +- bien en fonction de l'échelle qu'on prend.
+C'est une courbe exponentielle. 
+Il y a aussi un courant de fuite dans l'exemple du prof il est de -2.7nA.
+Il y a aussi le claquage à un certains voltage.
+
+Pour observer le courant, on utilise le logarithme de la valeur absolue du courant.
+A 0, il y a une singularité car 0A => log(0) = -infini.
+Sur le graphe, on observe une droite ce qui implique qu'il n'y a pas une tension seuil. Ce qui
+implique bien le modèle exponentielle de la diode. 
+
+Question examen 1755 => donner l'équation de la diode et définisser les paramètres.
+On s'attend à la définition des termes en mode physique -> température, boltzmann, ...
+
+Attention, exemple : l'effet de la température sur le courant avec la diode. Il ne réside pas
+dans le coéfficient de boltzmann mais bien dans Is car le courant augmente or V_T diminue le 
+l'exponentielle.
+
+diagramme de charge, très important pour pouvoir résoudre des équations. Permet de trouver
+le point d'opération ou de polarisation.
+ 
+Commande point opérationnel : .op  
+Commande paramètre : .PARAM, .STEP PARAM X list a b c ...
+très utile pour donner un paramètre et le faire varier.
+
+Commande simulation DC : .DC V Vi Vf step
+
+la diode zener s'utilise en inverse, on l'utilise pour son breakdown côté bloquant.
+Pratique pour les utilisations en basse tension, pour les applications de puissance
+Les encadrées rouges (CM1 bis) donnent une idée des questions d'examen possible d'être posé 
+
+
+
+
+
+
+
